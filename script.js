@@ -1,4 +1,3 @@
-script.js
 const btn = document.getElementById("actionBtn");
 const msg = document.getElementById("message");
 
